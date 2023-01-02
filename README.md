@@ -1,7 +1,7 @@
 ### 🤩 Nice way to meet me
 <p>
   <a href="https://velog.io/@qqq3964" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://[www.linkedin.com/in/cowkite/](https://www.linkedin.com/in/taewan-kim-259a05205/)" target="_blank"><img src="https://img.shields.io/badge/TaewanKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/taewan-kim-259a05205/" target="_blank"><img src="https://img.shields.io/badge/TaewanKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:qqq3964@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/qqq3964@konkuk.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
