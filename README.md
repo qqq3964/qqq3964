@@ -10,7 +10,7 @@
   👋&nbsp; Hi there! I'm <b>computer vision developer</b> skilled in PyTorch, Tensorflow, sklearn, doker, azure and aws.🚀<br/>
   I have experience 1 years of computer vision development 👁️ and machine learning development.<br/>
   For the past year, I have been interested in creating Image Deblurring with Pytorch and yolo.<br/>
-  Sometimes I develop back-end django. (but prefer machine learning)<br/><br/>
+  Sometimes I develop back-end flask. (but prefer machine learning)<br/><br/>
   I enjoy playing game, chat, Exercise and watching youtube. 📺 🚴‍♂️<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
