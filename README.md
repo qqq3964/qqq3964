@@ -22,7 +22,7 @@
 #### ● Kaist Micro Degree (2022.10-2023.04)
 <br/>
 
-### 🟢 certificate
+### ✉️ certificate
 #### ● Microsoft ai-900
 <br/>
 
