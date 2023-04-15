@@ -26,6 +26,11 @@
 #### ● Microsoft ai-900
 <br/>
 
+### ⭐ algoritm skills
+#### [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aa3964)](https://solved.ac/aa3964/)
+<br/>
+
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
