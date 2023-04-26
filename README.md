@@ -15,7 +15,7 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
-### 💼 Carrer
+### 💼 Career
 #### ● Graduated Konkuk University (2018.02-2024.02)
 #### ● SKT FLY AI Challenger (2022.12-2023.03)
 #### ● LG Aimers (2022.01-2023.03)
