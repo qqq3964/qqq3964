@@ -22,6 +22,8 @@
 #### ● Kaist Micro Degree (2022.10-2023.04)
 <br/>
 
+### 🏆 Awards
+
 ### ✉️ certificate
 #### ● Microsoft ai-900
 <br/>
