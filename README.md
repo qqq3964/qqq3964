@@ -23,6 +23,8 @@
 <br/>
 
 ### 🏆 Awards
+#### ● EV 국제 자동차대회 최우수상
+<br/>
 
 ### ✉️ certificate
 #### ● Microsoft ai-900
