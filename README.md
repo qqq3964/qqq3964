@@ -24,6 +24,7 @@
 
 ### 🏆 Awards
 #### ● EV 국제 자동차대회 최우수상
+#### ● LG aimers 본선 10위
 <br/>
 
 ### ✉️ certificate
